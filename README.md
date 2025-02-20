@@ -1,4 +1,4 @@
-# -Analyzing-Students-Mental-Health
+# Analyzing-Students-Mental-Health-in-SQL
 ![My Image](https://github.com/HagerMustafaa/-Analyzing-Students-Mental-Health/blob/main/mentalhealth.jpg)
 
 
